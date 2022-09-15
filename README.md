@@ -14,5 +14,6 @@
 ## 課程筆記
 
 ## 作業連結
+- [week2](https://github.com/wannaflyhigh/NTNU-PL/blob/main/w2.ipynb)
 
 ## 專題連結
