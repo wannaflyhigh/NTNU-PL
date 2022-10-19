@@ -17,5 +17,6 @@
 - [week2](https://github.com/wannaflyhigh/NTNU-PL/blob/main/w2.ipynb)
 - [week3](https://github.com/wannaflyhigh/NTNU-PL/blob/main/w3.ipynb)
 - [week4,作業一](https://github.com/wannaflyhigh/NTNU-PL/blob/main/w4.ipynb)
+- [作業二](https://github.com/wannaflyhigh/NTNU-PL/blob/main/hw2.ipynb)
 
 ## 專題連結
